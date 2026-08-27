@@ -80,3 +80,40 @@ academia/
 │   └── 📁 view/             # Interfaces de usuário
 ├── 📄 .gitignore
 ├── 📄 LICENSE               # Licença MIT
+└── 📄 README.md             # Documentação do projeto
+```
+
+---
+
+## 🚀 Como Executar
+
+### 📌 Pré-requisitos
+- Ambiente **Java JDK 11+** (ou ambiente de execução equivalente do projeto)
+- Git instalado na máquina
+
+### 🔧 Passos para execução
+
+1. **Clonar o repositório:**
+   ```bash
+   git clone [https://github.com/andrade111/academia.git](https://github.com/andrade111/academia.git)
+   ```
+
+2. **Acessar o diretório:**
+   ```bash
+   cd academia
+   ```
+
+3. **Compilar e executar:**
+   ```bash
+   # Exemplo para compilação via terminal
+   javac -d bin src/**/*.java
+   java -cp bin main.Main
+   ```
+
+---
+
+<div align="center">
+
+<sub>Desenvolvido por **[Gabriel Andrade](https://github.com/andrade111)** • Licença MIT</sub>
+
+</div>
